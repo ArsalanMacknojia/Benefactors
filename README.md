@@ -33,7 +33,7 @@ The recent pandemic has altered the way of life for a lot of people across the g
 
 #### To Run
 ```
-1. git clone https://csil-git1.cs.surrey.sfu.ca/amacknoj/orca.git
+1. git clone https://github.com/ArsalanMacknojia/Benefactors.git
 2. cd deployment
 3. docker-compose build && docker-compose up
 4. Go to http://localhost:8080/
